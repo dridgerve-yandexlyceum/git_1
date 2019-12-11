@@ -1,5 +1,6 @@
 def my_superfunction():
     print('WHAT AN AWESOME PRINT!')
+    print('WhAt An AwEsOmE PrInT!')
 
 
 def main():
